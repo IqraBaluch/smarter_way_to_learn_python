@@ -12,4 +12,15 @@ Often, programmers fall in love with Python because of the increased productivit
 
 ## Table of Content
 
-1. 
+1. Print
+2: Variables for Strings
+3: Variables for Numbers
+
+
+## 1. print
+
+print is a keyword—that is, a word that has special meaning for Python. It means, "Display what’s inside the parentheses." Note that print isn't capitalized. If you capitalize it, the program won’t run.
+
+```print("Hello world!")```
+
+
